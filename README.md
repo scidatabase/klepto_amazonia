@@ -1,5 +1,5 @@
 # klepto_amazonia
-Complete camera trap video of an attempt at kleptoparasitism by the White Hawk Pseudastur albicollis on the Greater Grison Galictis vittata in Central Brazilian Amazonia
+Complete camera trap video of an attempt at kleptoparasitism by the White Hawk <i>Pseudastur albicollis</i> on the Greater Grison <i>Galictis vittata</i> in Central Brazilian Amazonia
 
 Date of record: 14 June 2021.<br/>
 Equipment: Bushnell Low-Glow Camera Trap.<br/>
